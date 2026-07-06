@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @nikhilrajgude
-- 👀 I’m interested in ...Data Analysis 
-- 🌱 I’m currently learning ...Machine learning & have strong knowledge of advanced Excel, SQL & Tableau.
-- 💞️ I’m looking to collaborate on ...IT Companies for data-related roll.
-- 📫 How to reach me ...By Email - Nikhilrajgude@gmail.com
-
-<!---
-nikhilrajgude/nikhilrajgude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👋 Hi, I'm **Nikhil Rajgude**
+* 💼 Solution Consultant at **Videonetics** | Former Presales Engineer at **Cavitak** | Technical Support Engineer at **Hikvision** | ELV Engineer at **SBUT**
+* 🚀 Passionate about **AI Video Analytics**, **Enterprise Security Solutions**, and **Data Analytics**
+* 🌱 Currently expanding my expertise in **Machine Learning** and **Python**, with hands-on experience in **SQL, Power BI, Tableau, and Advanced Excel**
+* 📈 I enjoy building data-driven solutions, dashboards, and solving real-world business problems through analytics
+* 🤝 Open to collaborating on **Data Analytics**, **Business Intelligence**, and **AI-driven** projects
+* 📫 Reach me at **[nikhilrajgude@gmail.com](nikhilrajgude@gmail.com)
